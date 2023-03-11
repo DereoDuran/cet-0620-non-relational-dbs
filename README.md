@@ -1,0 +1,1 @@
+### Repositório da disciplina Bancos de Dados Não-relacionais da Especialização em Engenharia e Adm. de Sistemas de Banco de dados
